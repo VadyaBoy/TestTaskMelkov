@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Melkov_Frequency_Analysis/1.0.0": {
+        "runtime": {
+          "Melkov_Frequency_Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Melkov_Frequency_Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
